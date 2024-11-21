@@ -1,0 +1,16 @@
+.serach-box-header {
+    display: flex;
+    align-items: center;
+    width: 350px;
+}
+
+.input-header {
+    background-color: unset;
+}
+
+.serach-box-header span {
+    padding: 16px;
+    height: 100%;
+    font-size: 22px;
+    color: white;
+}
